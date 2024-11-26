@@ -14,7 +14,6 @@ dependencies = [
     "trafilatura",
     "readchar",
     "keyboard",
-    "curses-windows; sys_platform == \"win32\"",
     "tqdm",
     "urllib3",
     "openai>=1.0.0",
